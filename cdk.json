@@ -1,0 +1,7 @@
+{
+  "app": "python3 app.py",
+  "context": {
+    "retention_days": 1,
+    "model_id": "REPLACE_WITH_INFERENCE_PROFILE_ID"
+  }
+}

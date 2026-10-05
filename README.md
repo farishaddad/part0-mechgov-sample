@@ -1,6 +1,7 @@
 # Part 0 sample: mechanical enforcement around an LLM decision
 
-Companion code for *Mechanical Governance for LLM Decisions* (AWS Builder Center).
+> **This repo is the code support for [Mechanical governance for LLM decisions](https://builder.aws.com/content/3GM3ZataDpEoXXqODVwO3OF095l/mechanical-governance-for-llm-decisions)**, an AWS Builder Center article by Faris Haddad. Read the article for the architecture and reasoning; use this repo to deploy and test the Part 0 controls.
+
 It shows three controls that sit **outside the model**:
 
 | Control | Where | What it guarantees |
